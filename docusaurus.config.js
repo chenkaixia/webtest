@@ -38,7 +38,7 @@ const config = {
         // title: 'IData Pro',
         logo: {
           alt: 'IDATA',
-          src: 'img/logo.svg'
+          src: '/img/logo.svg'
         },
         items: [],
       },  prism: {
