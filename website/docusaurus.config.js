@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   projectName: 'webtest',
   organizationName: 'chenkaixia',
-  trailingSlash: true,
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
