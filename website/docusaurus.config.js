@@ -12,7 +12,6 @@ const config = {
   baseUrl: '/',
   projectName: 'webtest',
   organizationName: 'chenkaixia',
-  deploymentBranch:"master",
   trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
