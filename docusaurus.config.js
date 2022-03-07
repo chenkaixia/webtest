@@ -29,23 +29,7 @@ const config = {
         },
       }),
     ],
-  ],
-
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        // title: 'IData Pro',
-        logo: {
-          alt: 'IDATA',
-          src: '/img/logo.svg'
-        },
-        items: [],
-      },  prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+  ]
 };
 
 module.exports = config;
