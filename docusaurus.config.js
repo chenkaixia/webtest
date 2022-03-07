@@ -39,7 +39,7 @@ const config = {
         // title: 'IData Pro',
         logo: {
           alt: 'IDATA',
-          src: 'https://sitecdn.zcycdn.com/f2e-assets/b609cee4-c7d7-45bf-86da-3f5263fb8fa1.svg'
+          src: 'img/logo.svg'
         },
         items: [],
       },  prism: {
