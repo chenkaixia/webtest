@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'webtest',
   tagline: 'webtest are cool',
-  url: 'https://chenkaixia.github.io/webtest/',
-  baseUrl: '/',
+  url: 'https://chenkaixia.github.io',
+  baseUrl: '/webtest/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
