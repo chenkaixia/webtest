@@ -9,7 +9,7 @@ const config = {
   title: 'webtest',
   tagline: 'webtest are cool',
   url: 'https://chenkaixia.github.io',
-  baseUrl: '/',
+  baseUrl: '/webtest/',
   projectName: 'webtest',
   organizationName: 'chenkaixia',
   trailingSlash: false,
