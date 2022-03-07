@@ -1,4 +1,23 @@
+# IData-Portal
 
-# Haikus for Codespaces
+IData门户站点，使用[Docusaurus 2](https://docusaurus.io/)开发。
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+### 安装依赖
+
+```
+$ npm install
+```
+
+### 本地开发
+
+```
+$npm run start
+
+// localhost:3000
+```
+
+### 构建
+
+```
+$ npm run build
+```

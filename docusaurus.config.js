@@ -16,7 +16,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
+  deploymentBranch:"deployment",
   presets: [
     [
       'classic',
