@@ -9,14 +9,15 @@ const config = {
   title: 'webtest',
   tagline: 'webtest are cool',
   url: 'https://chenkaixia.github.io',
-  baseUrl: '/webtest/',
+  baseUrl: '/',
+  projectName: 'webtest',
+  organizationName: 'chenkaixia',
+  deploymentBranch:"master",
+  trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'chenkaixia',
-  projectName: 'webtest',
-  deploymentBranch:"master",
-  trailingSlash:false,
+
   presets: [
     [
       'classic',
